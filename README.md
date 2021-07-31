@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é João!
 - 👀 Estou interessado em aprender a programar jogos.
 - 🌱 Atualmente estou criando um server de FiveM!
-- 💞️ Estou aberto a propostas de trabalho!
+- 💞️ Estou aberto a propostas de trabalho.
 - 📫 Meu contato é: joaolerner@outlook.com.br
 
 <!---
