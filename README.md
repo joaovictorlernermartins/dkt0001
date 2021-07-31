@@ -2,7 +2,7 @@
 - 👀 Estou interessado em aprender a programar jogos.
 - 🌱 Atualmente alem de ser um programador Junior, estou criando um server de FiveM!
 - 💞️ Estou aberto a propostas de trabalho.
-- 📫 Meu contato é: joaolerner@outlook.com.br
+- 📫 Meu contato é: joaolerner@outlook.com.br ou meu Discord: dkt#0001
 
 <!---
 dkt0001/dkt0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
